@@ -1,1 +1,1 @@
-# july-2021
+# Basically this repository is created for july 21 batch students to learn selenium java programs with test ng framework
